@@ -1,9 +1,3 @@
-# Video_Surveillance_Using_Machine_learning
-This repository contains the implementation of a machine learning-based video surveillance system. The project leverages advanced ML techniques to detect, track, and analyze objects in real-time video streams, aiming to enhance security and monitoring efficiency
-
-Key features include:
-
-Object detection and tracking.
-Real-time anomaly detection.
-Scalable and efficient processing pipeline.
-Explore the codebase, contribute, or adapt the project to your needs!
+# Video-Surveillance-and-tracking-system using Facial Recognition
+<p>Connect all CCTV cameras to this system to track someone's live location in a premise using facial recognition. It can be also used to maintain records of people entering a premise using their face instead of bio-metrics/cards/manual Entry.</p>
+This system when used with national criminal database can track criminals and prevent mishaps 
